@@ -1,3 +1,12 @@
+### Dashboard Test
+This dashboard was built based on the necessary requirements of a cookie store with various charts and data widgets. 
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
