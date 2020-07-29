@@ -1,12 +1,12 @@
 # Dashboard Test
 This dashboard was built based on the necessary requirements of a cookie store with various charts and data widgets. 
 
-##Getting started
-##Prerequisites
+## Getting started
+## Prerequisites
 Nodejs environment on your machine, please visit https://nodejs.org/en/ for more detail
 Yarn as your package manager, please visit https://classic.yarnpkg.com/en/ 
 
-##Installing
+## Installing
 To get this project set up on your machine, please clone the project or download it as .ZIP file at https://github.com/JustCodeandChill/cookieDashboard.git
 In the project directory:
 - To install necessary dependencies, use 
@@ -20,17 +20,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser. ,
 ### `yarn eject`
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-##Built With
+## Built With
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br />
 Reactjs (https://reactjs.org/) <br/>
 React-semantic-ui (https://react.semantic-ui.com/) <br />
 
-##Versoning
+## Versoning
 1.0.0
 
-##Author
+## Author
 Paul Tran - Initial work
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for detail
 
