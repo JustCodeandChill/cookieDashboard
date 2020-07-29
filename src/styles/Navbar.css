@@ -1,0 +1,57 @@
+.navbar {
+    width: 100%;
+    height: 50px;
+    background-color: #664a27;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar-item {
+    cursor: pointer;
+    color: #ffffff;
+    padding: 11px 5px;  
+}
+
+.notification {
+    float: right;
+    background-color: none;
+    transition: color 0.5s;
+}
+.notification:hover {
+    background-color: #f0a500;
+}
+
+.profile {
+    padding-top: 0px;
+    transition: color 0.5s;
+}
+
+.logo a {
+    color: #ffffff;
+    transition: color 0.5s;
+}
+
+.logo a:hover {
+    color: #f0a500;
+    
+}
+
+.logo {
+    font-size: 25px;
+}
+
+
+.feed{
+text-transform: capitalize;
+}
+
+.feed .time {
+    font-size :10px;
+    float: right;
+    margin-left: 8px;
+    text-transform: none;
+}
+
+.inline-block {
+    display: inline-block;
+}

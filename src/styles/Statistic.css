@@ -1,0 +1,17 @@
+.statistic-container {
+display: flex;
+align-items: center;
+background-color: #ebecf1;
+padding: 10px 0;
+border-radius: 5px;
+margin-bottom: 7px;
+}
+
+.number-text{
+    background-color: #f3f4f7;
+    padding: 5px 10px 0 ;
+}
+
+.icon-margin {
+    margin-right: 10px;
+}

@@ -1,0 +1,125 @@
+/* For Message.js */
+.message {
+    background-color: #4267B2;
+    border: 2px solid #e7e6e1;
+    border-radius: 5px;
+}
+
+.message-title {
+    font-size: 1.4rem;
+    color: #f7f7f7;
+    padding: 10px 5px;
+    
+}
+
+.message-list {
+    background-color: #f7f7f7;    
+    list-style-type: none;
+    padding: 0 0 0px 5px;
+    margin : 0px;
+    overflow: auto;
+}
+
+.message-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    padding-right: 5px;
+    
+}
+
+.message-chat {
+    margin-left: 10px;
+
+}
+
+.message-chat-username {
+    font-weight: 600;
+    color: #848ccf;
+}
+.message-answer {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    border: 1px solid gray;
+}
+
+.message-answer-input {
+    min-width: 93%;
+    width: auto;
+    border:none;
+    padding: 5px 0;
+}
+.message-answer-input:focus {
+border: none;
+}
+.custom-avatar {
+    width: 50px;
+    border-radius: 50%
+} 
+/* For Achievement.js */
+.border {
+    border: 2px solid #d1cfc6;
+    border-radius: 5px;
+}
+
+.achivement-container {
+    padding: 10px 7px;
+    overflow: auto;
+}
+
+/* TodoList.js */
+.chat-container {
+    padding: 10px 7px;
+    overflow: auto;
+    margin-bottom: 30px;
+}
+
+.todo {
+    border-top: 2px solid #833916;
+}
+.reminder-item {
+    border-bottom: 2px solid #d1cfc6;
+    cursor: pointer;
+}
+
+.reminder-icon {
+    float: right;
+    cursor: pointer;
+}
+
+.check {
+    text-decoration: line-through;
+    color: #797979;
+}
+
+.cancel {
+    text-decoration: none;
+    color: black;
+}
+.time-reminder {
+    font-size: 0.8rem;
+    float: right;
+}
+
+/* For Member.js */
+.member {
+    border-top: 2px solid #831683;
+ 
+}
+.member-header {
+    padding: 5px 0;
+}
+.member-list {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.member-item {
+}
+
+.center {
+    margin: 0 auto;
+}
